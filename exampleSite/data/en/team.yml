@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: John Strunk
+    image_webp: ''
+    image: ''
+    designation: Married
+    content: ''
+    social: ''
   - name: Alexis Martin
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
