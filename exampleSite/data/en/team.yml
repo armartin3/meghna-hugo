@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Curtis Holden
+    image_webp: "/images/curtis.webp"
+    image: "/images/curtis.jpeg"
+    designation: League Legend
+    content: Live stream connoisseur.
+    social: []
   - name: John Strunk
     image_webp: "/images/john.webp"
     image: "/images/john.jpeg"
