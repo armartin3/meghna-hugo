@@ -18,8 +18,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Nathan May
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    image_webp: "/images/nate.webp"
+    image: "/images/nate.jpeg"
     designation: YAML Specialist
     content: 'Days since last cried: 1000'
     social:
