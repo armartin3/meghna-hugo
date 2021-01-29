@@ -50,10 +50,10 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Justin Schneider
-    image_webp: "/images/team/team-3.webp"
-    image: "/images/team/team-3.jpg"
+    image_webp: "/images/js.webp"
+    image: "/images/js.jpeg"
     designation: Template Guy
-    content: Does not show up when "*team member's name* liberty university" is googled.
+    content: Global advocate for the normalization of the Comic Sans font.
     social: []
   - name: Michael Miller
     image_webp: "/images/team/team-3.webp"
