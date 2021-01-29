@@ -59,7 +59,7 @@ team:
     image_webp: "/images/mikey.webp"
     image: "/images/mikey.jpeg"
     designation: SQL Injector
-    content: Does not enjoy when meetings are called for social purposes only.
+    content: Red Team
     social: []
   - name: Nat Hatfield
     image_webp: "/images/nathat.webp"
