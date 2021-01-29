@@ -3,6 +3,13 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Michael Miller
+    image_webp: "/images/team/team-3.webp"
+    image: "/images/team/team-3.jpg"
+    designation: SQL Injector
+    content: Does not show up when his name is googled. So this picture will have
+      to do.
+    social: []
   - name: Curtis Holden
     image_webp: "/images/curtis.webp"
     image: "/images/curtis.jpeg"
