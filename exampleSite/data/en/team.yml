@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Blake Dunson
+    image_webp: "/images/nate.webp"
+    image: "/images/nate.jpeg"
+    designation: PoC
+    content: Did not show up to the first meeting.
+    social: []
   - name: Alexis Martin
     image_webp: "/images/amarti.webp"
     image: "/images/amarti.jpeg"
