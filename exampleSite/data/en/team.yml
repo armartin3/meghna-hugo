@@ -33,7 +33,7 @@ team:
     image_webp: "/images/john.webp"
     image: "/images/john.jpeg"
     designation: Married
-    content: Very good at "Strunkies Stiggies"
+    content: Red Team
     social: []
   - name: Justin Lowell
     image_webp: "/images/jlow.webp"
