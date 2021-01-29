@@ -59,8 +59,8 @@ team:
     image_webp: "/images/team/team-3.webp"
     image: "/images/team/team-3.jpg"
     designation: SQL Injector
-    content: Does not show up when his name is googled. So this picture will have
-      to do.
+    content: Also does not show up when his name is googled. So this picture will
+      have to do.
     social: []
   - name: Nat Hatfield
     image_webp: "/images/nathat.webp"
