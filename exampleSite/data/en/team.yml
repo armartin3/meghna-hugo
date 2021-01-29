@@ -10,8 +10,8 @@ team:
     content: Un-google-able.
     social: ''
   - name: Michael Miller
-    image_webp: "/images/team/team-1.webp"
-    image: "/images/team/team-1.jpg"
+    image_webp: "/images/curtis.webp"
+    image: "/images/curtis.jpeg"
     designation: SQL Injector
     content: Your face doesn't pop up when I google you so here we are.
     social: ''
