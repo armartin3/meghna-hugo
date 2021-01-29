@@ -33,7 +33,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Michael Jonson
+  - name: Justin Lowell
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     designation: Web Developer
@@ -48,7 +48,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
+  - name: Nat Hatfield
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
     designation: SEO Specialist
