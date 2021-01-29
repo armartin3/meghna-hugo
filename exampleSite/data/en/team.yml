@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: John Strunk
+    image_webp: "/images/john.webp"
+    image: "/images/john.jpeg"
+    designation: Married
+    content: Very good @ "Strunkies Stiggys"
+    social: ''
   - name: Blake Dunson
     image_webp: "/images/nate.webp"
     image: "/images/nate.jpeg"
