@@ -65,7 +65,7 @@ team:
     image_webp: "/images/nathat.webp"
     image: "/images/nathat.jpeg"
     designation: Pen Tester of the Year
-    content: Will give you a disapproving dad glare.
+    content: Blue Team
     social:
     - icon: ti-facebook
       link: "#"
