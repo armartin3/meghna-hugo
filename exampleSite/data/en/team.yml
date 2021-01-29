@@ -4,10 +4,10 @@ team:
   title: Our Team
   team_member:
   - name: John Strunk
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
+    image_webp: images/jImage.webp
+    image: images/jImage.jpeg
+    designation: Married
+    content: strunkie
     social: ''
   - name: Mike Miller
     image_webp: ''
