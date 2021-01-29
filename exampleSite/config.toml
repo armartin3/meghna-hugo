@@ -143,8 +143,6 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-enable = false
-[[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
