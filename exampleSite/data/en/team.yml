@@ -3,38 +3,6 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Justin Schneider
-    image_webp: "/images/team/team-3.webp"
-    image: "/images/team/team-3.jpg"
-    designation: Template Guy
-    content: Also does not show up when "*team member's name* liberty university"
-      is googled.
-    social: []
-  - name: Michael Miller
-    image_webp: "/images/team/team-3.webp"
-    image: "/images/team/team-3.jpg"
-    designation: SQL Injector
-    content: Does not show up when his name is googled. So this picture will have
-      to do.
-    social: []
-  - name: Curtis Holden
-    image_webp: "/images/curtis.webp"
-    image: "/images/curtis.jpeg"
-    designation: League Legend
-    content: Live stream connoisseur.
-    social: []
-  - name: John Strunk
-    image_webp: "/images/john.webp"
-    image: "/images/john.jpeg"
-    designation: Married
-    content: Very good at "Strunkies Stiggies"
-    social: []
-  - name: Blake Dunson
-    image_webp: "/images/blake.webp"
-    image: "/images/blake.jpeg"
-    designation: Ex PoC
-    content: Did not show up to the first meeting.
-    social: []
   - name: Alexis Martin
     image_webp: "/images/amarti.webp"
     image: "/images/amarti.jpeg"
@@ -49,20 +17,24 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Nathan May
-    image_webp: "/images/nate.webp"
-    image: "/images/nate.jpeg"
-    designation: YAML Specialist
-    content: 'Days since last cried: 1000'
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+  - name: Blake Dunson
+    image_webp: "/images/blake.webp"
+    image: "/images/blake.jpeg"
+    designation: Ex PoC
+    content: Did not show up to the first meeting.
+    social: []
+  - name: Curtis Holden
+    image_webp: "/images/curtis.webp"
+    image: "/images/curtis.jpeg"
+    designation: League Legend
+    content: Live stream connoisseur.
+    social: []
+  - name: John Strunk
+    image_webp: "/images/john.webp"
+    image: "/images/john.jpeg"
+    designation: Married
+    content: Very good at "Strunkies Stiggies"
+    social: []
   - name: Justin Lowell
     image_webp: "/images/jlow.webp"
     image: "/images/jlow.jpeg"
@@ -77,11 +49,39 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+  - name: Justin Schneider
+    image_webp: "/images/team/team-3.webp"
+    image: "/images/team/team-3.jpg"
+    designation: Template Guy
+    content: Also does not show up when "*team member's name* liberty university"
+      is googled.
+    social: []
+  - name: Michael Miller
+    image_webp: "/images/team/team-3.webp"
+    image: "/images/team/team-3.jpg"
+    designation: SQL Injector
+    content: Does not show up when his name is googled. So this picture will have
+      to do.
+    social: []
   - name: Nat Hatfield
     image_webp: "/images/nathat.webp"
     image: "/images/nathat.jpeg"
     designation: Pen Tester of the Year
     content: Will give you a disapproving dad glare.
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Nathan May
+    image_webp: "/images/nate.webp"
+    image: "/images/nate.jpeg"
+    designation: YAML Specialist
+    content: 'Days since last cried: 1000'
     social:
     - icon: ti-facebook
       link: "#"
