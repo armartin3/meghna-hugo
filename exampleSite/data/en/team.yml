@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Blake Dunson
-    image_webp: "/images/nate.webp"
-    image: "/images/nate.jpeg"
+    image_webp: "/images/blake.webp"
+    image: "/images/blake.jpeg"
     designation: Ex PoC
     content: Did not show up to the first meeting.
     social: []
