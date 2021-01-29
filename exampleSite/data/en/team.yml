@@ -21,7 +21,7 @@ team:
     image_webp: "/images/blake.webp"
     image: "/images/blake.jpeg"
     designation: Ex PoC
-    content: Did not show up to the first meeting.
+    content: Red Team
     social: []
   - name: Curtis Holden
     image_webp: "/images/curtis.webp"
