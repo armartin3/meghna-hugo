@@ -8,7 +8,7 @@ team:
     image: "/images/john.jpeg"
     designation: Married
     content: brilliant
-    social: ''
+    social: []
   - name: Blake Dunson
     image_webp: "/images/blake.webp"
     image: "/images/blake.jpeg"
