@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Alexis Martin
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: "/images/amarti.webp"
+    image: "/images/amarti.jpeg"
     designation: Team Lead
     content: Recently burned white rice.
     social:
