@@ -39,7 +39,7 @@ team:
     image_webp: "/images/jlow.webp"
     image: "/images/jlow.jpeg"
     designation: Certified Toaster
-    content: Clicks CTRL + C while you are installing.
+    content: Red Team
     social:
     - icon: ti-facebook
       link: "#"
