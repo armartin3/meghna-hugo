@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Your Favorite Capstone Team"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Alexis](https://themefisher.com) & Developed by [Alexis](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -22,7 +22,7 @@ weight = 1
 name = "services"
 pre = "#"
 url = "services"
-weight = 4
+weight = 2
 [[Languages.en.menu.main]]
 name = "portfolio"
 pre = "#"
@@ -32,7 +32,7 @@ weight = 3
 name = "team"
 pre = "#"
 url = "team"
-weight = 2
+weight = 4
 [[Languages.en.menu.main]]
 name = "pricing"
 pre = "#"
