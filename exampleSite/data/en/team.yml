@@ -56,11 +56,10 @@ team:
     content: Global advocate for the normalization of the Comic Sans font.
     social: []
   - name: Michael Miller
-    image_webp: "/images/team/team-3.webp"
-    image: "/images/team/team-3.jpg"
+    image_webp: "/images/mikey.webp"
+    image: "/images/mikey.jpeg"
     designation: SQL Injector
-    content: Also does not show up when his name is googled. So this picture will
-      have to do.
+    content: Does not enjoy when meetings are called for social purposes only.
     social: []
   - name: Nat Hatfield
     image_webp: "/images/nathat.webp"
