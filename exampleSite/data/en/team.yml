@@ -7,7 +7,7 @@ team:
     image_webp: "/images/amarti.webp"
     image: "/images/amarti.jpeg"
     designation: Team Lead
-    content: Recently burned white rice.
+    content: Blue Team
     social:
     - icon: ti-facebook
       link: "#"
