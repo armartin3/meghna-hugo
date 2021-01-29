@@ -3,39 +3,9 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: John Strunk
-    image_webp: ''
-    image: ''
-    designation: Married
-    content: strunkie
-    social: ''
-  - name: Mike Miller
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
-    social: ''
-  - name: Curtis Holden
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
-    social: ''
-  - name: Justin Schneider
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
-    social: ''
-  - name: Blake Dunson
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
-    social: ''
   - name: Alexis Martin
     image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpeg
+    image: images/team/team-1.jpg
     designation: CEO/Founder
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
