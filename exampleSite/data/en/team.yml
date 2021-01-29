@@ -3,18 +3,6 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Justin Schneider
-    image_webp: "/images/curtis.webp"
-    image: "/images/curtis.jpeg"
-    designation: Template Guy
-    content: Un-google-able.
-    social: ''
-  - name: Michael Miller
-    image_webp: "/images/curtis.webp"
-    image: "/images/curtis.jpeg"
-    designation: SQL Injector
-    content: Your face doesn't pop up when I google you so here we are.
-    social: ''
   - name: Curtis Holden
     image_webp: "/images/curtis.webp"
     image: "/images/curtis.jpeg"
