@@ -32,8 +32,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Justin Lowell
-    image_webp: "/images/jimage.webp"
-    image: images/jimage.jpeg
+    image_webp: "/images/jlow.webp"
+    image: "/images/jlow.jpeg"
     designation: Certified Toaster
     content: Clicks CTRL + C while you are installing.
     social:
