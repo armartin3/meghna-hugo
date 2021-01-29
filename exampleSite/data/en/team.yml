@@ -46,8 +46,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Nat Hatfield
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
+    image_webp: "/images/nathat.webp"
+    image: "/images/nathat.jpeg"
     designation: Pen Tester of the Year
     content: Will give you a disapproving dad glare.
     social:
