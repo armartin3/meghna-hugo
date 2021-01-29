@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Justin Schneider
-    image_webp: "/images/team/team-1.webp"
-    image: "/images/team/team-1.jpg"
+    image_webp: "/images/curtis.webp"
+    image: "/images/curtis.jpeg"
     designation: Template Guy
     content: Un-google-able.
     social: ''
