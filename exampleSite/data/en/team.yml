@@ -53,8 +53,7 @@ team:
     image_webp: "/images/team/team-3.webp"
     image: "/images/team/team-3.jpg"
     designation: Template Guy
-    content: Also does not show up when "*team member's name* liberty university"
-      is googled.
+    content: Does not show up when "*team member's name* liberty university" is googled.
     social: []
   - name: Michael Miller
     image_webp: "/images/team/team-3.webp"
