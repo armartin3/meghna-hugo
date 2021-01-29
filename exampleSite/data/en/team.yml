@@ -79,7 +79,7 @@ team:
     image_webp: "/images/nate.webp"
     image: "/images/nate.jpeg"
     designation: YAML Specialist
-    content: 'Days since last cried: 1000'
+    content: Red Team
     social:
     - icon: ti-facebook
       link: "#"
