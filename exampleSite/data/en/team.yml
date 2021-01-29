@@ -7,8 +7,7 @@ team:
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: Team Lead
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Recently burned white rice.
     social:
     - icon: ti-facebook
       link: "#"
@@ -22,8 +21,7 @@ team:
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
     designation: YAML Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: 'Days since last cried: 1000'
     social:
     - icon: ti-facebook
       link: "#"
@@ -37,8 +35,7 @@ team:
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     designation: Certified Toaster
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Clicks CTRL + C while you are installing.
     social:
     - icon: ti-facebook
       link: "#"
@@ -52,8 +49,7 @@ team:
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
     designation: Pen Tester of the Year
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Will give you a disapproving dad glare.
     social:
     - icon: ti-facebook
       link: "#"
